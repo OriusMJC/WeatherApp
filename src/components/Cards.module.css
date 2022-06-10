@@ -1,0 +1,13 @@
+.containerHeader{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  height: 210px;
+}
+.containerCards{
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  max-width: 80%;
+  flex-wrap: wrap;
+}

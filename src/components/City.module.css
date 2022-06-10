@@ -1,0 +1,13 @@
+.cityContent{
+    background-color: rgba(88, 87, 86, 0.616);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    min-width: 335px;
+    max-height: 750px;
+    width: 700px;
+    height: 500px;
+    border-radius: 50px;
+    margin-top: 80px;
+}

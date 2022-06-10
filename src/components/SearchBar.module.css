@@ -1,0 +1,20 @@
+.sbar {
+    background-color: rgb(230, 236, 242);
+    padding-left: 15px;
+    width: 300px;
+    height: 40px;
+    border: 1px solid #eee;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.sbutton{
+    background-color: rgb(17, 15, 44);
+    color: #f8f6f6;
+    margin-top: 20px;
+    width: 80px;
+    height: 40px;
+    border: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
